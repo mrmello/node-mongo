@@ -1,0 +1,17 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmello/node-mongo.git"
+  },
+  "keywords": [],
+  "author": "Marcos Mello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrmello/node-mongo/issues"
+  },
+  "homepage": "https://github.com/mrmello/node-mongo#readme",
+}
