@@ -7,11 +7,25 @@
     "type": "git",
     "url": "git+https://github.com/mrmello/node-mongo.git"
   },
-  "keywords": [],
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "node js",
+    "mongoDB",
+    "mongoose"
+  ],
   "author": "Marcos Mello",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mrmello/node-mongo/issues"
   },
   "homepage": "https://github.com/mrmello/node-mongo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
 }
